@@ -62,13 +62,3 @@ npm run dev
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-**Built to bridge the gap between ideation and publication.**
-
----
-
-### Want to make it "Official"?
-
-Would you like me to generate a **License file** or a **Contribution Guide** to make your repository look more professional for recruiters?
